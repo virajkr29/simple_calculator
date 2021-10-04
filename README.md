@@ -1,1 +1,1 @@
-# simple_calculator
+# coding-project-template
